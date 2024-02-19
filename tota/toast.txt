@@ -1,0 +1,7 @@
+#!/bin/bash
+
+a= 10
+b=23
+
+echo " c = $a + $b"
+#we are just creating a basic form of statement to automate and push file in git withthe help of crontab :) 
