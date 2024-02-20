@@ -1,0 +1,10 @@
+#!/bin/bash
+
+## we are creating a basic format of thing that will ever matter to any one
+
+name="manoj"
+age=23
+
+echo "This is $name and the age is $age"
+
+ 
